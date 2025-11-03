@@ -1,8 +1,10 @@
 import streamlit as st
-import sys
 import os
 import time
-sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+import sys
+
+# Add the app directory to the path
+sys.path.append('app')
 
 from utils import Config
 from utils.rag_engine import RAGEngine
