@@ -1,0 +1,118 @@
+2025-11-03 21:11:48,483 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:11:48,484 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:11:52,963 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:11:52,964 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:11:58,641 - SupportCoPilot - INFO - Connected to Pinecone index: support-knowledge-base
+2025-11-03 21:11:58,642 - SupportCoPilot - INFO - Index stats: 8 vectors
+2025-11-03 21:11:58,643 - SupportCoPilot - INFO - RAG Engine initialized successfully
+2025-11-03 21:11:59,164 - SupportCoPilot - INFO - Response Generator initialized with GPT-4
+2025-11-03 21:11:59,165 - SupportCoPilot - INFO - AI components initialized successfully
+2025-11-03 21:11:59,171 - SupportCoPilot - INFO - Created 4 chunks from knowledge base
+2025-11-03 21:12:07,304 - SupportCoPilot - INFO - Uploaded batch 1/1
+2025-11-03 21:12:07,406 - SupportCoPilot - INFO - Successfully uploaded 4/4 vectors
+2025-11-03 21:12:07,407 - SupportCoPilot - INFO - Indexed 4 documents successfully
+2025-11-03 21:12:30,701 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:12:30,703 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:12:34,029 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:12:34,030 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:12:35,855 - SupportCoPilot - INFO - Found 0 relevant knowledge base matches for query: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:12:35,857 - SupportCoPilot - INFO - Attempting response generation with fallback for: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:12:35,858 - SupportCoPilot - INFO - Generating response for issue: 'I can't login to my account and I'm really frustrated because I have an important meeting in 30 minu...' with 0 context chunks
+2025-11-03 21:12:45,786 - SupportCoPilot - INFO - Successfully generated response using 0 context chunks
+2025-11-03 21:12:45,788 - SupportCoPilot - INFO - Successfully generated response #1
+2025-11-03 21:12:46,893 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:12:46,894 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:12:55,879 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:12:55,880 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:12:57,603 - SupportCoPilot - INFO - Response copied to clipboard
+2025-11-03 21:17:23,682 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:17:23,685 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:17:24,384 - SupportCoPilot - INFO - Response copied to clipboard
+2025-11-03 21:17:30,313 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:17:30,314 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:17:31,752 - SupportCoPilot - INFO - Response copied to clipboard
+2025-11-03 21:17:49,882 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:17:49,883 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:17:52,343 - SupportCoPilot - INFO - Found 0 relevant knowledge base matches for query: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:17:52,345 - SupportCoPilot - INFO - Attempting response generation with fallback for: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:17:52,346 - SupportCoPilot - INFO - Generating response for issue: 'I can't login to my account and I'm really frustrated because I have an important meeting in 30 minu...' with 0 context chunks
+2025-11-03 21:18:02,477 - SupportCoPilot - INFO - Successfully generated response using 0 context chunks
+2025-11-03 21:18:02,478 - SupportCoPilot - INFO - Successfully generated response #2
+2025-11-03 21:18:03,581 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:18:03,582 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:18:05,401 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:18:05,404 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:18:05,866 - SupportCoPilot - INFO - Response copied to clipboard
+2025-11-03 21:21:39,841 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:21:39,859 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:21:40,669 - SupportCoPilot - INFO - UI cleared by user
+2025-11-03 21:21:41,050 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:21:41,051 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:21:44,627 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:21:44,628 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:21:50,713 - SupportCoPilot - INFO - Found 0 relevant knowledge base matches for query: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:21:50,715 - SupportCoPilot - INFO - Attempting response generation with fallback for: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:21:50,716 - SupportCoPilot - INFO - Generating response for issue: 'I can't login to my account and I'm really frustrated because I have an important meeting in 30 minu...' with 0 context chunks
+2025-11-03 21:22:00,005 - SupportCoPilot - INFO - Successfully generated response using 0 context chunks
+2025-11-03 21:22:00,007 - SupportCoPilot - INFO - Successfully generated response #3
+2025-11-03 21:22:01,117 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:22:01,118 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:22:05,573 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:22:05,574 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:22:06,309 - SupportCoPilot - INFO - Response copied to clipboard
+2025-11-03 21:22:16,208 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:22:16,209 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:25:17,073 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:25:17,074 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:25:19,924 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:25:19,925 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:25:28,410 - SupportCoPilot - INFO - Connected to Pinecone index: support-knowledge-base
+2025-11-03 21:25:28,410 - SupportCoPilot - INFO - Index stats: 12 vectors
+2025-11-03 21:25:28,411 - SupportCoPilot - INFO - RAG Engine initialized successfully
+2025-11-03 21:25:28,944 - SupportCoPilot - INFO - Response Generator initialized with GPT-4
+2025-11-03 21:25:28,944 - SupportCoPilot - INFO - AI components initialized successfully
+2025-11-03 21:25:28,947 - SupportCoPilot - INFO - Created 4 chunks from knowledge base
+2025-11-03 21:25:31,764 - SupportCoPilot - INFO - Uploaded batch 1/1
+2025-11-03 21:25:31,866 - SupportCoPilot - INFO - Successfully uploaded 4/4 vectors
+2025-11-03 21:25:31,867 - SupportCoPilot - INFO - Indexed 4 documents successfully
+2025-11-03 21:25:53,040 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:25:53,041 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:25:55,660 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:25:55,662 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:25:56,903 - SupportCoPilot - INFO - Found 0 relevant knowledge base matches for query: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:25:56,905 - SupportCoPilot - INFO - Attempting response generation with fallback for: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:25:56,905 - SupportCoPilot - INFO - Generating response for issue: 'I can't login to my account and I'm really frustrated because I have an important meeting in 30 minu...' with 0 context chunks
+2025-11-03 21:26:06,101 - SupportCoPilot - INFO - Successfully generated response using 0 context chunks
+2025-11-03 21:26:06,102 - SupportCoPilot - INFO - Successfully generated response #1
+2025-11-03 21:26:07,207 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:26:07,207 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:26:09,875 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:26:09,876 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:26:10,346 - SupportCoPilot - INFO - Response copied to clipboard
+2025-11-03 21:53:17,143 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:53:17,144 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:53:20,033 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:53:20,034 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:53:24,022 - SupportCoPilot - INFO - Connected to Pinecone index: support-knowledge-base
+2025-11-03 21:53:24,023 - SupportCoPilot - INFO - Index stats: 16 vectors
+2025-11-03 21:53:24,024 - SupportCoPilot - INFO - RAG Engine initialized successfully
+2025-11-03 21:53:24,578 - SupportCoPilot - INFO - Response Generator initialized with GPT-4
+2025-11-03 21:53:24,578 - SupportCoPilot - INFO - AI components initialized successfully
+2025-11-03 21:53:24,582 - SupportCoPilot - INFO - Created 4 chunks from knowledge base
+2025-11-03 21:53:28,507 - SupportCoPilot - INFO - Uploaded batch 1/1
+2025-11-03 21:53:28,608 - SupportCoPilot - INFO - Successfully uploaded 4/4 vectors
+2025-11-03 21:53:28,609 - SupportCoPilot - INFO - Indexed 4 documents successfully
+2025-11-03 21:53:42,315 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:53:42,316 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:53:43,991 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:53:43,994 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:53:45,496 - SupportCoPilot - INFO - Found 0 relevant knowledge base matches for query: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:53:45,497 - SupportCoPilot - INFO - Attempting response generation with fallback for: 'I can't login to my account and I'm really frustra...'
+2025-11-03 21:53:45,498 - SupportCoPilot - INFO - Generating response for issue: 'I can't login to my account and I'm really frustrated because I have an important meeting in 30 minu...' with 0 context chunks
+2025-11-03 21:53:57,228 - SupportCoPilot - INFO - Successfully generated response using 0 context chunks
+2025-11-03 21:53:57,229 - SupportCoPilot - INFO - Successfully generated response #1
+2025-11-03 21:53:58,321 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:53:58,321 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:54:00,803 - SupportCoPilot - INFO - Support Co-pilot application started
+2025-11-03 21:54:00,803 - SupportCoPilot - INFO - Configuration validation successful
+2025-11-03 21:54:01,696 - SupportCoPilot - INFO - Response copied to clipboard using pyperclip

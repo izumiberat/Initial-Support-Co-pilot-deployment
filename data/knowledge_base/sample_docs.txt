@@ -1,0 +1,11 @@
+[Refund Policy]
+Customers can request refunds within 30 days of purchase. Refunds are processed within 5-7 business days. For digital products, access will be revoked upon refund.
+
+[Login Issues]
+Common solutions: Clear browser cache, reset password, check service status page. If issues persist, escalate to technical team.
+
+[Premium Features]
+Premium includes: Advanced analytics, priority support, custom branding. Billing cycles are monthly or annual.
+
+[Service Status]
+Check status.page.com for real-time service updates. During outages, provide ETA updates every 2 hours.
