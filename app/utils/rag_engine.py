@@ -1,7 +1,7 @@
 import os
 import openai
 from pinecone import Pinecone, ServerlessSpec
-from utils import Config
+from utils import config
 from utils.logger import logger
 import tiktoken
 from typing import List, Dict, Optional
@@ -10,8 +10,8 @@ import time
 
 class RAGEngine:
     def __init__(self):
-        self.openai_client = openai.OpenAI(api_key=Config.OPENAI_API_KEY)
-        self.pc = Pinecone(api_key=Config.PINECONE_API_KEY)
+        self.openai_client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
+        self.pc = Pinecone(api_key=config.PINECONE_API_KEY)
         self.index = self._initialize_index()
         self.embedding_model = "text-embedding-3-small"
         logger.info("RAG Engine initialized successfully")
@@ -20,16 +20,16 @@ class RAGEngine:
         """Initialize and validate the Pinecone index"""
         try:
             # Check if index exists
-            if Config.PINECONE_INDEX_NAME not in self.pc.list_indexes().names():
-                error_msg = f"Index '{Config.PINECONE_INDEX_NAME}' not found. Please create it first."
+            if config.PINECONE_INDEX_NAME not in self.pc.list_indexes().names():
+                error_msg = f"Index '{config.PINECONE_INDEX_NAME}' not found. Please create it first."
                 logger.error(error_msg)
                 raise ValueError(error_msg)
             
-            index = self.pc.Index(Config.PINECONE_INDEX_NAME)
+            index = self.pc.Index(config.PINECONE_INDEX_NAME)
             
             # Test the connection
             index_stats = index.describe_index_stats()
-            logger.info(f"Connected to Pinecone index: {Config.PINECONE_INDEX_NAME}")
+            logger.info(f"Connected to Pinecone index: {config.PINECONE_INDEX_NAME}")
             logger.info(f"Index stats: {index_stats.total_vector_count} vectors")
             
             return index
